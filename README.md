@@ -5,3 +5,8 @@ Everything is in Greek, but that is easily changeable. All text can be manually 
 Frameworks Used: Bootstrap
 
 Publicly available through the MIT license.
+
+How to use:
+
+1) Visit the Releases Page and read the content of the files you want.
+2) Open the files with whatever you code with and you're ready to go.
