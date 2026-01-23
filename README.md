@@ -8,5 +8,5 @@ Publicly available through the MIT license.
 
 How to use:
 
-1) Visit the Releases Page and read the content of the files you want.
+1) Visit the Releases Page and download the content of the files you want.
 2) Open the files with whatever you code with and you're ready to go.
